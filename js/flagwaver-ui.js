@@ -134,7 +134,7 @@
         }
         $.extend( flagWaverOpts.flag, flagWaverDefaults.flag, flagOpts );
         setFlagOpts( {
-            imgSrc : flagWaverOpts.flag.imgURL || 'img/asgardia-flag7-4.jpg',
+            imgSrc : flagWaverOpts.flag.imgURL || 'img/asgardia-flag7-4-1.jpg',
             topEdge : flagWaverOpts.flag.topEdge,
             hoisting : flagWaverOpts.flag.hoisting
         } );
