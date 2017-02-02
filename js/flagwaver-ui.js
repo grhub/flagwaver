@@ -134,7 +134,7 @@
         }
         $.extend( flagWaverOpts.flag, flagWaverDefaults.flag, flagOpts );
         setFlagOpts( {
-            imgSrc : flagWaverOpts.flag.imgURL || 'img/NZ.2b.png',
+            imgSrc : flagWaverOpts.flag.imgURL || 'img/asgardia-flag9.jpg',
             topEdge : flagWaverOpts.flag.topEdge,
             hoisting : flagWaverOpts.flag.hoisting
         } );
